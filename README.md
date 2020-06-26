@@ -6,3 +6,8 @@ DAMIAN TRILLING
 University of Amsterdam, The Netherlands
 
 Online Appendix
+
+
+To cite this repository, please use:
+
+DOI:10.5281/zenodo.3908629
